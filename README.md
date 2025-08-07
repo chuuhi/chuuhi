@@ -1,6 +1,8 @@
 ## Hi there 👋
-  🔭 I’m currently working on my web development portfolio
-  🌱 I’m currently learning MERN stack with #100Devs
+ <ul>
+  <li>🔭 I’m currently working on my web development portfolio</li>
+  <li>🌱 I’m currently learning MERN stack with #100Devs</li>
+</ul>
 
 <!--
 **chuuhi/chuuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
