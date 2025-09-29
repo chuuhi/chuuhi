@@ -1,8 +1,6 @@
 ## Hi there 👋
  <ul>
-  <li>🔭 I’m currently working on my web development portfolio</li>
-  <li>🌱 I’m currently learning MERN stack with #100Devs</li>
-  <li>🌱 I'm also learning SQL and Tableau for data analytics!</li>
+  <li>🌱 I’m currently learning data structures and algorithms!</li>
 </ul>
 
 <!--
