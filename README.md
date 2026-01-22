@@ -1,6 +1,6 @@
 ## Hi there 👋
  <ul>
-  <li>🌱 I’m currently working on a restaurant POS system!</li>
+  <li>🌱 I’m currently working on personal projects in preparation for a software engineering apprenticeship!</li>
 
 </ul>
 
